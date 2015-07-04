@@ -1,0 +1,39 @@
+<template name="banner">
+
+    <div class="banner-section background">
+
+        <div class="logo">
+            <b>ReferralSpam</b>Bot
+        </div>
+
+        <div class="nav">
+            <ul>
+                <li><a href="{{pathFor route='homepage'}}" class="active">Home</a></li>
+                <li><a href="{{pathFor route='howitworks'}}">How It Works</a></li>
+                <li><a href="{{pathFor route='articles'}}">Articles</a></li>
+                <li><a href="{{pathFor route='contact'}}">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="container">
+            <div class="title">
+                <h2>The easy way to remove your <b>referral spam</b> and <b>ghost traffic</b>
+                    from your Google Analytics account.</h2>
+            </div>
+            <div class="row">
+                <div class="col-md-2 col-md-offset-5">
+                    <button class="btn btn-red" id="connect-btn">Connect</button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 text">
+                    Requires temporary access to your Google Analytics account
+                </div>
+                <div class="col-md-2 text">
+                     Spam Blocklist <b>{{spamCount}}</b>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</template>

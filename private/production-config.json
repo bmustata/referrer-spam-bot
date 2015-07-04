@@ -1,0 +1,8 @@
+{
+  "ga_client_id": "",
+  "ga_scope": [
+    "https://www.googleapis.com/auth/analytics.readonly",
+    "https://www.googleapis.com/auth/analytics",
+    "https://www.googleapis.com/auth/analytics.edit"
+  ]
+}

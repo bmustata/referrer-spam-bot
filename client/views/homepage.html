@@ -1,0 +1,39 @@
+<template name="homepage">
+
+    {{>banner}}
+    
+    <div class="websites-section">
+
+        <div class="container">
+
+            <div class="title">Select a Google Analytics view</div>
+
+            {{#each properties}}
+            <div class="list">
+
+                <div class="name">
+                    <div class="short-name">{{subname}}</div>
+                    <div class="long-name">{{name}}</div>
+                    <div class="clearfix"></div>
+                </div>
+
+                {{#each views}}
+                <div class="view" data-propertyId="{{../id}}" data-viewId="{{id}}">
+                    <div class="row">
+                        <div class="col-md-5 view-title">{{name}}</div>
+                        <!--<span class="count">{{totalSessions}} sessions</span>-->
+                        <div class="col-md-2 col-md-offset-2"><button type="button" class="btn btn-apply">Apply Filters</button></div>
+                        <div class="col-md-2"><button type="button" class="btn btn-remove">Remove Filters</button></div>
+                        <div class="col-md-1 processing" style="display: none"><img class="size-full" src="processing_1.gif" alt="Loading icon rubik's cube" width="42" height="42"></div>
+                    </div>
+                </div>
+                {{/each}}
+
+            </div>
+            {{/each}}
+
+        </div>
+
+    </div>
+
+</template>

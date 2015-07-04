@@ -1,0 +1,35 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteor-platform
+underscore
+aldeed:collection2
+
+iron:router
+zimme:iron-router-active
+okgrow:iron-router-autoscroll
+spiderable
+manuelschoebel:ms-seo
+
+accounts-base
+accounts-password
+accounts-ui
+
+mrt:moment
+reactive-var
+cfs:standard-packages
+cfs:filesystem
+meteorhacks:npm
+npm-container
+
+# Client packages
+jquery
+less
+twbs:bootstrap
+fortawesome:fontawesome
+ryanswapp:interactjs
+udondan:jszip
+pfafman:filesaver
