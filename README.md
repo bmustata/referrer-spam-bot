@@ -6,7 +6,7 @@
 
 The easy way to remove your referrer spam and ghost traffic from your Google Analytics account.
 
-![Meteor Facebook feed](https://github.com/cambrozie/meteor-facebook-feed/blob/master/public/referrer-spam-bot-preview.jpg?raw=true)
+![Meteor Facebook feed](https://raw.githubusercontent.com/bmustata/referrer-spam-bot/master/public/referrer-spam-bot-preview.jpg)
 
 Currently we support:
 - Connect to GA account
