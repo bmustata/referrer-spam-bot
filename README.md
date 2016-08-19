@@ -1,5 +1,3 @@
-![image_meteor@2x.png](https://d14jjfgstdxsoz.cloudfront.net/meteor-development-group.png)
-
 # referrer-spam-bot
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/bmustata/icenodes?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
@@ -29,7 +27,7 @@ We were having issues with some of our Google Analytics properties and we decide
 
 # Requirements
 
-- Meteor >= 1.1.0
+- Meteor >= 1.4.x
 
 # Quick start
 
@@ -41,6 +39,6 @@ We were having issues with some of our Google Analytics properties and we decide
 
 # License
 
-Copyright &copy; 2014-2015 [ICENodes](http://icenodes.com). Licensed under the terms of the [MIT license](LICENSE.md).
+Copyright &copy; 2014-2016 [ICENodes](http://icenodes.com). Licensed under the terms of the [MIT license](LICENSE.md).
 
 Provided by ICENodes - www.icenodes.com

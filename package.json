@@ -1,0 +1,22 @@
+{
+  "name": "referrer-spam-bot",
+  "version": "1.0.0",
+  "description": "The easy way to remove your referrer spam and ghost traffic from your Google Analytics account.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmustata/referrer-spam-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmustata/referrer-spam-bot/issues"
+  },
+  "homepage": "https://github.com/bmustata/referrer-spam-bot#readme",
+  "dependencies": {
+    "bcrypt": "^0.8.7"
+  }
+}
