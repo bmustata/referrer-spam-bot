@@ -29,6 +29,13 @@ We were having issues with some of our Google Analytics properties and we decide
 
 - Meteor >= 1.4.x
 
+# Tools
+
+[Free Mockup Generator - MockupsJar](https://mockupsjar.com/)  
+[iPhone Mockup Generator - MockupsJar](https://mockupsjar.com/mockups/tag/iphone)  
+[MacBook Pro Mockup Generator - MockupsJar](https://mockupsjar.com/mockups/tag/macbook)  
+[Android Mockup Generator - MockupsJar](https://mockupsjar.com/mockups/tag/android)  
+
 # Quick start
 
 - Download / Clone the repository `git clone https://github.com/bmustata/referrer-spam-bot`
